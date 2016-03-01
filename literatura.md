@@ -15,7 +15,7 @@
 
 
 ### Zajęcia 3
-- Striedter (2004) Principles of Brain Evolution – wybrane rozdziały (niedługo podam jakie). Książka nie jest dostępna w internecie (chyba), [tutaj jest natomiast percis (skrót/streszczenie/podsumowanie)](http://people.sissa.it/~ale/Rou+06a.pdf). Wrzucę skan na dropboxa.
+- Striedter (2004) Principles of Brain Evolution – wybrane rozdziały (niedługo podam jakie). Książka nie jest dostępna w internecie (chyba), [tutaj jest natomiast percis (skrót/streszczenie/podsumowanie)](http://people.sissa.it/~ale/Rou+06a.pdf). Niedługo wrzucę skan adekwantych rozdziałów książki na dropboxa.
 
 
 ## Literatura dodatkowa
