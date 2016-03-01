@@ -16,3 +16,9 @@
 
 ### Zajęcia 3
 - Striedter (2004) Principles of Brain Evolution – wybrane rozdziały (niedługo podam jakie)
+
+
+## Literatura dodatkowa
+czyli literatura, którą wypisuję, a której nikt nie przeczyta
+* O procesorach i procesach myślowych. Elementy kognitywistyki. Max Urchs
+* ... 
