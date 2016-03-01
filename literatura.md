@@ -11,7 +11,7 @@
   * Kevin O'Regan
 
 ### Zajęcia 2
-- Soon, Brass, Heinze & Haynes (2008) Unconscious determinants of free decisions in the human brain
+- [Soon, Brass, Heinze & Haynes (2008) Unconscious determinants of free decisions in the human brain](http://www.rifters.com/real/articles/NatureNeuroScience_Soon_et_al.pdf)
 
 
 ### Zajęcia 3
