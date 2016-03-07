@@ -21,9 +21,11 @@ Dla strażników klasowych dodatkowo:
 - Striedter (2004) Principles of Brain Evolution – wybrane rozdziały (niedługo podam jakie). Książka nie jest dostępna w internecie (chyba), [tutaj jest natomiast percis (skrót/streszczenie/podsumowanie)](http://people.sissa.it/~ale/Rou+06a.pdf). Niedługo wrzucę skan adekwantych rozdziałów książki na dropboxa.
 
 ### Zajęcia 4
+(na razie sie tym nie przejmujcie, na razie zrzucam rozne rzeczy, jeszcze zrobie porzadek)
 - [proste intro terminologiczne](http://numenta.com/blog/machine-intelligence-machine-learning-deep-learning-artificial-intelligence.html)
 - [Inceptionism szerzej w internecie dyskutowany jako Deep Dream Google'a](http://googleresearch.blogspot.com/2015/06/inceptionism-going-deeper-into-neural.html)
 - [wyklad Andrew Ng wprowadzajacy do zagadnien Deep-learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
+- https://www.youtube.com/watch?v=SH8SYh20Qng https://www.youtube.com/watch?v=qP9TOX8T-kI (też Ng, chyba lepsze na wprowadzenie)
 - [Rozpoznawanie wielorybów: deep-learning](http://deepsense.io/deep-learning-right-whale-recognition-kaggle/) - tekst momentami jest dosyć trudny, nie musicie wszystkiego zrozumieć, bedziemy w klasie rozjasniać w dyskusji o co chodzi.
 
 ## Literatura dodatkowa
