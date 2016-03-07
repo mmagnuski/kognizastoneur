@@ -12,7 +12,10 @@
 
 ### Zajęcia 2
 - [Soon, Brass, Heinze & Haynes (2008) Unconscious determinants of free decisions in the human brain](http://www.rifters.com/real/articles/NatureNeuroScience_Soon_et_al.pdf)
-
+- [Conversations on Consciousness](https://www.google.pl/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiY6JfvzZLLAhVID5oKHZTmB_MQFggbMAA&url=http%3A%2F%2Fm.friendfeed-media.com%2Fbce0e73afd9f8618cb8231482d33f854b1f96215&usg=AFQjCNHMg6rdpDOJTW8GYuru6ffOkAwqYw&sig2=WQzjTHZ6oFw-GJgbDs_kfA&bvm=bv.115277099,d.bGs)
+  * `Daniel Wegner` - od strony 248, pytania "I know you've been doing work for some time on thought suppression. (...)"
+Dla strażników klasowych dodatkowo:
+  * `Thomas Metzinger`
 
 ### Zajęcia 3
 - Striedter (2004) Principles of Brain Evolution – wybrane rozdziały (niedługo podam jakie). Książka nie jest dostępna w internecie (chyba), [tutaj jest natomiast percis (skrót/streszczenie/podsumowanie)](http://people.sissa.it/~ale/Rou+06a.pdf). Niedługo wrzucę skan adekwantych rozdziałów książki na dropboxa.
