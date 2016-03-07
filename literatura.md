@@ -22,6 +22,7 @@ Dla strażników klasowych dodatkowo:
 
 ### Zajęcia 4
 - [proste intro terminologiczne](http://numenta.com/blog/machine-intelligence-machine-learning-deep-learning-artificial-intelligence.html)
+- [Inceptionism szerzej w internecie dyskutowany jako Deep Dream Google'a](http://googleresearch.blogspot.com/2015/06/inceptionism-going-deeper-into-neural.html)
 - [Rozpoznawanie wielorybów: deep-learning](http://deepsense.io/deep-learning-right-whale-recognition-kaggle/) - tekst momentami jest dosyć trudny, nie musicie wszystkiego zrozumieć, bedziemy w klasie rozjasniać w dyskusji o co chodzi.
 
 ## Literatura dodatkowa
