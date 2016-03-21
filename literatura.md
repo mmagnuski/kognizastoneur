@@ -21,12 +21,20 @@ Dla strażników klasowych dodatkowo:
 - Striedter (2004) Principles of Brain Evolution – wybrane rozdziały (niedługo podam jakie). Książka nie jest dostępna w internecie (chyba), [tutaj jest natomiast percis (skrót/streszczenie/podsumowanie)](http://people.sissa.it/~ale/Rou+06a.pdf). Niedługo wrzucę skan adekwantych rozdziałów książki na dropboxa.
 
 ### Zajęcia 4
-(na razie sie tym nie przejmujcie, na razie zrzucam rozne rzeczy, jeszcze zrobie porzadek)
+- [intro](https://www.youtube.com/watch?v=AY4ajbu_G3k)
+- [deep-learning](http://www.nature.com/news/computer-science-the-learning-machines-1.14481)
+- [krórkie wideo - intro do AlphaGo](https://www.youtube.com/watch?v=SUbqykXVx0A)
+- [AlphaGo, czyli deep-learning grajacy w go](http://www.nature.com/news/google-ai-algorithm-masters-ancient-game-of-go-1.19234)
+- [Rozpoznawanie wielorybów: deep-learning](http://deepsense.io/deep-learning-right-whale-recognition-kaggle/) - tekst momentami może być trudny, nie musicie wszystkiego zrozumieć, bedziemy w klasie rozjasniać w dyskusji o co chodzi.
+
+Dodatkowe (nieobowiazkowe):
 - [proste intro terminologiczne](http://numenta.com/blog/machine-intelligence-machine-learning-deep-learning-artificial-intelligence.html)
 - [Inceptionism szerzej w internecie dyskutowany jako Deep Dream Google'a](http://googleresearch.blogspot.com/2015/06/inceptionism-going-deeper-into-neural.html)
-- [wyklad Andrew Ng wprowadzajacy do zagadnien Deep-learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
-- https://www.youtube.com/watch?v=SH8SYh20Qng https://www.youtube.com/watch?v=qP9TOX8T-kI (też Ng, chyba lepsze na wprowadzenie)
-- [Rozpoznawanie wielorybów: deep-learning](http://deepsense.io/deep-learning-right-whale-recognition-kaggle/) - tekst momentami jest dosyć trudny, nie musicie wszystkiego zrozumieć, bedziemy w klasie rozjasniać w dyskusji o co chodzi.
+- [jak dziala AlphaGo?](https://xcorr.net/2016/02/03/5-easy-pieces-how-deepmind-mastered-go/)
+- [deep-learning simplified](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
+- https://www.youtube.com/watch?v=ZmNOAtZIgIk
+- https://www.youtube.com/watch?v=IcOMKXAw5VA
+
 
 ## Literatura dodatkowa
 czyli literatura, którą wypisuję, a której nikt nie przeczyta
