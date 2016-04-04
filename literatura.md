@@ -35,6 +35,12 @@ Dodatkowe (nieobowiazkowe):
 - https://www.youtube.com/watch?v=ZmNOAtZIgIk
 - https://www.youtube.com/watch?v=IcOMKXAw5VA
 
+##  Zajęcia 5
+- [proste intro do sztucznych sieci neuronowych](https://www.youtube.com/watch?v=DG5-UyRBQD4)
+- [Inceptionism szerzej w internecie dyskutowany jako Deep Dream Google'a](http://googleresearch.blogspot.com/2015/06/inceptionism-going-deeper-into-neural.html)
+- [jak dziala AlphaGo?](https://xcorr.net/2016/02/03/5-easy-pieces-how-deepmind-mastered-go/)
+- [Rozpoznawanie wielorybów: deep-learning](http://deepsense.io/deep-learning-right-whale-recognition-kaggle/) - tekst momentami może być trudny, nie musicie wszystkiego zrozumieć, bedziemy w klasie rozjasniać w dyskusji o co chodzi.
+
 
 ## Literatura dodatkowa
 czyli literatura, którą wypisuję, a której nikt nie przeczyta
