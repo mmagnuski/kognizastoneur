@@ -41,6 +41,8 @@ Dodatkowe (nieobowiazkowe):
 - [jak dziala AlphaGo?](https://xcorr.net/2016/02/03/5-easy-pieces-how-deepmind-mastered-go/)
 - [Rozpoznawanie wielorybów: deep-learning](http://deepsense.io/deep-learning-right-whale-recognition-kaggle/) - tekst momentami może być trudny, nie musicie wszystkiego zrozumieć, bedziemy w klasie rozjasniać w dyskusji o co chodzi.
 
+## Zajęcia 06
+* [Fries, 2015, Rhythms for Cognition: Communication through Coherence](https://www.dropbox.com/s/z601cqaecpp0kvs/%5B%21%5D%20%282015%29%20%5BFries%5D%20Rhythms%20for%20Cognition%20-%20Communication%20through%20Coherence.pdf?dl=0). Tekst jest dosyć złożony, przeczytajcie uważnie! W razie czego możecie sięgnąć do wcześniejszej przeglądówki Fries'a na ten temat: w google wpiszcie `Fries 2005 cognitive dynamics` - w pierwszych 3 wynikach powinien być artykuł.
 
 ## Literatura dodatkowa
 czyli literatura, którą wypisuję, a której nikt nie przeczyta
