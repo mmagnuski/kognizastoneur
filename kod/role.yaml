@@ -9,12 +9,16 @@ week_02:
 week_03:
    klasa: [Borkowska Olga, None]
    platforma: [Zańczak Weronika, None]
-   prezentacja: [Uliasz Martyna, Myszkowska Magda]
+   prezentacja: [Uliasz Martyna, Myszkowska Magdalena]
 week_04:
-   klasa: [Kasprzak Karolina, Grzebalski Marcin]
+   klasa: [None, Grzebalski Marcin]
    platforma: [Borkowska Olga, Grabowska Sylwia]
    prezentacja: [Ulińska Maja, Łęgowski Aleksander]
 week_05:
+   klasa: [Myszkowska Magdalena, Kasprzak Karolina]
+   platforma: [Kałwiński Paweł, Sroczyński Marek]
+   prezentacja: [Borkowska Olga, Toczyska Kaja]
+week_06:
    klasa: [None, None]
    platforma: [None, None]
    prezentacja: [None, None]
